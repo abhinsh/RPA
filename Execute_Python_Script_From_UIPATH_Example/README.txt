@@ -2,6 +2,7 @@ A simple example of Executing_Python_Script_From_UIPATH
 
 See package_detail.jpg file above for the package (UiPath.Python.Activities) needed to install in UiPath Studio in order to run Python workflow. 
 
+** Consideration for this workflow: the location of python.exe is maintained in PATH environment variable.
 
 ## ACTIVITIES description of this package:
 
