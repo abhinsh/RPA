@@ -3,7 +3,7 @@ A simple example of Executing_Python_Script_From_UIPATH
 See package_detail.jpg file above for the package (UiPath.Python.Activities) needed to install in UiPath Studio in order to run Python workflow. 
 
 
-## More ACTIVITIES:
+## ACTIVITIES description of this package:
 
 1. Run Python Script: To execute a python script. (Must be inside the "Python Scope" activity)
 2. Python Scope: Details such as Python Path, Current Working folder, x86/x64 version specification etc. 
