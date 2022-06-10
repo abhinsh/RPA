@@ -1,5 +1,7 @@
 A simple example of Executing_Python_Script_From_UIPATH
 
+See package_detail.jpg file above for the package (UiPath.Python.Activities) needed to install in UiPath Studio in order to run Python workflow. 
+
 
 ## More ACTIVITIES:
 
